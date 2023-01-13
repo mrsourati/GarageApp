@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Garage", "Garage\Garage.csproj", "{9A7B1805-0AEC-400A-B692-5F02D0844456}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarageDataAccess", "DataAccess\GarageDataAccess.csproj", "{CBD5C5EA-F694-475C-A960-3C8961DCBE8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A7B1805-0AEC-400A-B692-5F02D0844456}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A7B1805-0AEC-400A-B692-5F02D0844456}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A7B1805-0AEC-400A-B692-5F02D0844456}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A7B1805-0AEC-400A-B692-5F02D0844456}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBD5C5EA-F694-475C-A960-3C8961DCBE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBD5C5EA-F694-475C-A960-3C8961DCBE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBD5C5EA-F694-475C-A960-3C8961DCBE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBD5C5EA-F694-475C-A960-3C8961DCBE8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1216D933-0D63-4A60-B7F7-359B95D6CC81}
+	EndGlobalSection
+EndGlobal
